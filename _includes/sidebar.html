@@ -25,14 +25,21 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github fa-3x"></i></a>
+      <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter fa-3x"></i></a>
+      <a href="https://www.linkedin.com/in/scottslowe"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://feeds.scottlowe.org/slowe/content/feed/"><i class="fa fa-rss fa-3x"></i></a>
+    </p>
+  </div>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}.  Dah.
     </p>
   </div>
 </div>
