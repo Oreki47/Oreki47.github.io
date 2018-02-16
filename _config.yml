@@ -5,15 +5,22 @@ pygments:         true
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Blog
-tagline:          
-description:      'This is Zhiyuan Cao'
-url:              
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title/
 
-author:
-  name:           
-  url:            
+
+# Setup
+title:            "Cao's Weeblog"
+name:             "Cao's Weeblog"
+tagline:          "A blog about what?"
+description:      "This guy is a weeb"
+url:              "https://oreki47.github.io"
+paginate:         5
+
+# About
+author:           
+name:             "Zhiyuan Cao"
+url:                          
 
 paginate:         5
 
