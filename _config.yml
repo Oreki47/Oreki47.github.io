@@ -10,7 +10,7 @@ permalink:        /:year/:month/:day/:title/
 # Setup
 title:            "Cao's Weeblog"
 name:             "Cao's Weeblog"
-tagline:          "A blog about what?"
+tagline:          "-------------"
 description:      "This guy is a weeb"
 url:              "https://oreki47.github.io"
 paginate:         5
