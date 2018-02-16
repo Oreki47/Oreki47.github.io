@@ -3,9 +3,9 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-#
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:year/:month/:day/:title/
+permalink:        /:year/:month/:day/:title/
+
 
 # Setup
 title:            "Cao's Weeblog"
@@ -15,17 +15,19 @@ description:      "This guy is a weeb"
 url:              "https://oreki47.github.io"
 paginate:         5
 
-# About/contact
+# About
 author:           
 name:             "Zhiyuan Cao"
 url:                          
 
+paginate:         5
 
 # Custom vars
-version:             1.0.0
+version:          2.0.0
 
-# Exclude Ruby gem stuff
-exclude:             ["vendor"]
+github:           
+  repo:           https://github.com/Oreki47/Oreki47.github.io
+
 
 # Gems
 gems:
