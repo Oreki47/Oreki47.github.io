@@ -3,10 +3,8 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
-
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:year/:month/:day/:title/
+permalink:        /:year/:month/:day/:title/
 
 
 # Setup
