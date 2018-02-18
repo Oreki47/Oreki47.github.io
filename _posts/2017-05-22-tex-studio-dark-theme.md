@@ -24,6 +24,6 @@ Step 4: Copy and paste the whole file into the bottom of txs_costom.tesprofile.
 
 Step 5: TexStudio --> Option --> Load Profile and restart TexStudio. Here is what it looks like.
 
-![useful image]({{ site.url }}/public/img/tex_studio_dark_theme.JPG)
+![tex studio dark theme example]({{ site.url }}/public/img/tex_studio_dark_theme.PNG)
 
 ENJOY!
