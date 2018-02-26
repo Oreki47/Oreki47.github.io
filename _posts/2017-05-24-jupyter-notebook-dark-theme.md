@@ -3,7 +3,7 @@ author: Zhiyuan
 comments: true
 date: 2017-05-24
 layout: post
-title: Jupyter Notebook Dark Themes
+title: Jupyter Notebook Dark Themes & Initial path
 categories: Tech
 tags:
 - Environment Setup
@@ -11,18 +11,16 @@ tags:
 - Ubuntu
 ---
 
-I am using this [this](https://github.com/dunovank/jupyter-themes). There isn't much on my part.
+I am using [this](https://github.com/dunovank/jupyter-themes). There isn't much on my part.
 
 ```
 pip install --upgrade jupyterthemes
 jt -t onedork -fs 13 -altp -tfs 13 -nfs 13 -cellw 88% -T -N
 ```
 
-Sudo with Linux. Here is a sample screen shot.
+Here is a sample screen shot.
 
-![tex studio dark theme example]({{ site.url }}/public/img/jupyter_notebook_dark_theme.png)
-
-----
+![tex studio dark theme example]({{ site.url }}/public/img/jupyter_notebook_dark_theme.png = 200x200)
 
 For Windows to set up the initial directory:
 
@@ -40,5 +38,4 @@ Uncomment line 179 and set it to
 ```
 c.NotebookApp.notebook_dir = 'desired path'
 ```
-
-----
+That's it.
