@@ -8,6 +8,7 @@ categories: Tech
 tags:
 - Environment Setup
 - Windows 10
+- Ubuntu
 ---
 
 So I am suffering from dry eyes lately and I figured that one way to deal with it is to set all my working environment with dark themes. That indeed provides some level of relief. This is a series,  starting with TexStudio, as right now I am grinding to get a paper published.
