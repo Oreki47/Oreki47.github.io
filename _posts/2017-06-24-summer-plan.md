@@ -6,7 +6,7 @@ layout: post
 title: Summer Plans
 categories: General
 tags:
-- None
+- Life
 ---
 So I have roughly two more years for my Ph.D. Now I am a bit nervous as I just finished my first Journal writing and is about to have it submitted. There is no way I could know if it will get accepted. To reach the average bar of our lab, I need 2 journals and 4 conferences in total. Now I only have one conference (although conferences are, indeed, easy and take roughly 1 month with a good idea in mind).
 

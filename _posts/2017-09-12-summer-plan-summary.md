@@ -6,7 +6,7 @@ layout: post
 title: Summer Plans Summary
 categories: General
 tags:
-- None
+- Life
 ---
 So I guess the summer is almost over. Now I can check if I have accomplished what I planed at the very beginning of the summer.
 
