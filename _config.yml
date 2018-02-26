@@ -8,10 +8,10 @@ permalink:        /:year/:month/:day/:title/
 
 
 # Setup
-title:            "Cao's Weeblog"
+title:            "Oreki47"
 name:             "Cao's Weeblog"
 tagline:          "-------------"
-description:      "This guy is a weeb"
+description:      "This guy is a weeb -- Most of the stuff I write is for myself. I try to archive most of the tech/general things I encounter in my life so I could skip the searching part by just reading my own post and figure it out later again."
 url:              "https://oreki47.github.io"
 paginate:         5
 

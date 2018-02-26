@@ -20,7 +20,7 @@ jt -t onedork -fs 13 -altp -tfs 13 -nfs 13 -cellw 88% -T -N
 
 Here is a sample screen shot.
 
-![tex studio dark theme example]({{ site.url }}/public/img/jupyter_notebook_dark_theme.png = 200x200)
+![tex studio dark theme example]({{ site.url }}/public/img/jupyter_notebook_dark_theme.png)
 
 For Windows to set up the initial directory:
 

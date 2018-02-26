@@ -27,7 +27,7 @@ So I am suffering from dry eyes lately and I figured that one way to deal with i
 
 5. TexStudio --> Option --> Load Profile and restart TexStudio. Here is what it looks like.
 
-![tex studio dark theme example]({{ site.url }}/public/img/tex_studio_dark_theme.PNG = 200x200)
+![tex studio dark theme example]({{ site.url }}/public/img/tex_studio_dark_theme.PNG)
 
 ENJOY!
 
