@@ -13,18 +13,27 @@ tags:
 
 So I am suffering from dry eyes lately and I figured that one way to deal with it is to set all my working environment with dark themes. That indeed provides some level of relief. This is a series,  starting with TexStudio, as right now I am grinding to get a paper published.
 
-Step 1: TexStudio --> Option --> Save Profile and save a profile to a directory you remember. For me, I just saved it to the default config directory:
+1. TexStudio --> Option --> Save Profile to backup:
 
+```
 "User/Appdata/Roaming/texstudio/txs_default.txsprofile"
+```
 
-Step 2: Make a copy and name it to whatever you like. For me, it is just txs_costom.tesprofile.
+2. Copy and rename it to txs_costom.tesprofile.
 
-Step 3: Download DarkTheme which was supposed to be a .txt file yet WordPress does not allow such format. Other themes can be found, for instance, this link.
+3. Download DarkTheme which was supposed to be a .txt file from, for instance, [this](https://github.com/Francis-Hsu/TeXstudio_Solarized).
 
-Step 4: Copy and paste the whole file into the bottom of txs_costom.tesprofile.
+4. Copy and paste the whole file into the bottom of txs_costom.tesprofile.
 
-Step 5: TexStudio --> Option --> Load Profile and restart TexStudio. Here is what it looks like.
+5. TexStudio --> Option --> Load Profile and restart TexStudio. Here is what it looks like.
 
-![tex studio dark theme example]({{ site.url }}/public/img/tex_studio_dark_theme.PNG)
+![tex studio dark theme example]({{ site.url }}/public/img/tex_studio_dark_theme.PNG = 200x200)
 
 ENJOY!
+
+
+---
+
+TODO:
+
+add the ubuntu part.
