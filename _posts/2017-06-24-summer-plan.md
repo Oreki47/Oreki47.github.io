@@ -1,9 +1,9 @@
 ---
 author: Zhiyuan
 comments: true
-date: 2017-05-28
+date: 2017-06-24
 layout: post
-title: Summer Plans and Summary
+title: Summer Plans
 categories: General
 tags:
 - None
